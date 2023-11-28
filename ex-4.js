@@ -21,7 +21,7 @@ employees.push(
   {
     name: "Kody",
     age: 19,
-    hobbies: ["Computer games", "RWakeboard"],
+    hobbies: ["Computer games", "Wakeboard"],
   }
 );
 console.log(employees);
